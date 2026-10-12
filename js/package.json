@@ -23,11 +23,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RCADIAHQ/AGENT-SDK-.git",
+    "url": "https://github.com/RCADIAHQ/AGENT-SDK.git",
     "directory": "js"
   },
   "homepage": "https://rcadia.xyz/docs/agent-sdk",
   "bugs": {
-    "url": "https://github.com/RCADIAHQ/AGENT-SDK-/issues"
+    "url": "https://github.com/RCADIAHQ/AGENT-SDK/issues"
   }
 }
